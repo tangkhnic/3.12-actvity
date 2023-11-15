@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tangkhnic/3.12-actvity/issues"
   },
-  "homepage": "https://github.com/tangkhnic/3.12-actvity#readme"
+  "homepage": "https://github.com/tangkhnic/3.12-actvity#readme",
+  "devDependencies": {
+    "serverless-offline": "^13.2.1"
+  }
 }
